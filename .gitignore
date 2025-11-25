@@ -1,0 +1,18 @@
+# Visual Studio / VS Code generated
+.vs/
+.vscode/
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svnn/
+*.scc
+
+# OS generated
+.DS_Store
+Thumbs.db
