@@ -1,0 +1,3 @@
+# Windows IME Project
+這是我練習 Git 的專案。
+目前功能：...
