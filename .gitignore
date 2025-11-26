@@ -12,6 +12,8 @@
 *.booproj
 *.svnn/
 *.scc
+*.pptx
+*.msi
 
 # OS generated
 .DS_Store
